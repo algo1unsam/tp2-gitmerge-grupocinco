@@ -5,6 +5,12 @@ object algoritmo {
     }
 }
 
-object buenosAires {}
+object santaCruz {
+
+  method color(){
+    return "Rojo"
+  }
+
+}
 
 
