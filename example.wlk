@@ -1,10 +1,11 @@
 object algoritmo {
   
   method color() { 
-    return "Azul cobalto claro"
+    return "Negro"
     }
 }
 
+<<<<<<< HEAD
 object santaCruz {
 
   method color(){
@@ -12,5 +13,11 @@ object santaCruz {
   }
 
 }
+=======
+object buenosaires {}
+
+object Mendoza {}
+
+>>>>>>> rama_ivan
 
 
