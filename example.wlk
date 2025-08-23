@@ -1,7 +1,7 @@
 object algoritmo {
   
   method color() { 
-    return "VIoleta"
+    return "VIoleta" // modificado por Lauty
     }
 }
 
@@ -13,6 +13,6 @@ object santaCruz {
 
 }
 
-object GORDOBA {}
+object GORDOBAA{}
 
 
