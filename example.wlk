@@ -1,23 +1,19 @@
 object algoritmo {
   
   method color() { 
+<<<<<<< HEAD
     return "Negro"
+=======
+    return "VIoleta" // modificado por Lauty
+>>>>>>> Mena
     }
 }
 
-<<<<<<< HEAD
-object santaCruz {
-
-  method color(){
-    return "Rojo"
-  }
-
-}
-=======
 object buenosaires {}
 
 object Mendoza {}
 
->>>>>>> rama_ivan
+
+object GORDOBAA{}
 
 
