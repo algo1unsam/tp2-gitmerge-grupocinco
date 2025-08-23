@@ -1,10 +1,19 @@
 object algoritmo {
   
   method color() { 
-    return "Azul cobalto claro"
+<<<<<<< HEAD
+    return "Negro"
+=======
+    return "VIoleta" // modificado por Lauty
+>>>>>>> Mena
     }
 }
 
-object buenosAires {}
+object buenosaires {}
+
+object Mendoza {}
+
+
+object GORDOBAA{}
 
 
